@@ -8,7 +8,11 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 html, body  {
+<<<<<<< HEAD
     background-color: #00b300;
+=======
+    background-color: 00b300;
+>>>>>>> bggreen
 	margin: 0;
 }
 /* Correct `block` display not defined in IE 8/9.*/
